@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Takweem>
+    <Analysis
+        name        = ""
+        description = ""
+        category    = ""
+        >
+        <Operation 
+            name         = ""
+            description  = ""
+            correctValue = ""
+            type         = ""                                    
+        >
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />            
+        </Operation>
+        <Operation 
+            name         = ""
+            description  = ""
+            correctValue = ""
+            type         = ""                                    
+        >
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />            
+        </Operation>
+        <Operation 
+            name         = ""
+            description  = ""
+            correctValue = ""
+            type         = ""                                    
+        >
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />
+            <Point
+                symbol      = ""
+                name        = ""
+                describtion = ""
+            />            
+        </Operation>                
+    </Analysis>
+</Takweem>
