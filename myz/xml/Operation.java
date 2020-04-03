@@ -17,17 +17,18 @@ public class Operation extends MYZXmlObject
     
     //Statics
      //Type
-    public static final String TYPE_DISTANCE_BETWEEN_TWO_POINTS                   = "MYZDistanceBetweenTwoPoints";
-    public static final String TYPE_DISTANCE_BETWEEN_TWO_LINES                    = "MYZDistanceBetweenTwoLines";
-    public static final String TYPE_DISTANCE_BETWEEN_LINE_AND_POINT               = "MYZDistanceBetweenLineAndPoint";
-    public static final String TYPE_DISTANCE_BETWEEN_TWO_PROJECTED_POINTS_ON_LINE = "MYZDistanceBetweenTwoProjectedPointsOnLine";
-    public static final String TYPE_ANGEL_BETWEEN_THREE_POINTS                    = "MYZAngelBetweenThreePoints";
-    public static final String TYPE_ANGEL_BETWEEN_TWO_LINES                       = "MYZAngelBetweenTwoLines";
-    public static final String TYPE_RATIO_BETWEEN_TWO_LINES                       = "MYZRatioBetweenTwoLines";
+    public static final String TYPE_DISTANCE_BETWEEN_TWO_POINTS                   = "MYZOperationTypeDistanceBetweenTwoPoints";
+    public static final String TYPE_DISTANCE_BETWEEN_TWO_LINES                    = "MYZOperationTypeDistanceBetweenTwoLines";
+    public static final String TYPE_DISTANCE_BETWEEN_LINE_AND_POINT               = "MYZOperationTypeDistanceBetweenLineAndPoint";
+    public static final String TYPE_DISTANCE_BETWEEN_TWO_PROJECTED_POINTS_ON_LINE = "MYZOperationTypeDistanceBetweenTwoProjectedPointsOnLine";
+    public static final String TYPE_ANGEL_BETWEEN_THREE_POINTS                    = "MYZOperationTypeAngelBetweenThreePoints";
+    public static final String TYPE_ANGEL_BETWEEN_TWO_LINES                       = "MYZOperationTypeAngelBetweenTwoLines";
+    public static final String TYPE_RATIO_BETWEEN_TWO_LINES                       = "MYZOperationTypeRatioBetweenTwoLines";
 
      //Classification
-    public static final String CLASSIFICATION_SKELETON = "Skeleton";
-    public static final String CLASSIFICATION_1        = "1";
+    public static final String CLASSIFICATION_SKELETON = "MYZOperationClassificationSkeleton";
+    public static final String CLASSIFICATION_1        = "MYZOperationClassification";
+    public static final String CLASSIFICATION_2        = "MYZOperationClassification";
     
     //Members
     String m_name;
